@@ -2,4 +2,4 @@
 
 echo "this file is really important!";
 
-echo "Wow!";
+echo "checkt it out!";
